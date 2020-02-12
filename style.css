@@ -492,7 +492,8 @@ footer a:hover {
 }
 
 #nav-list a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    font :black;
 }
 
 #nav-list.nav-hide {
